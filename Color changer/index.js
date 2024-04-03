@@ -20,7 +20,7 @@ buttons.forEach(function (button){
         else if (e.target.id == 'red'){
             body.style.backgroundColor = e.target.id
         }
-        else if (e.target.id == 'green'){
+        else if (e.target.id == 'lightgreen'){
             body.style.backgroundColor = e.target.id
         }
     })
